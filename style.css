@@ -1,0 +1,13 @@
+
+html, body {
+  height: 100%; /* Ensures the html and body elements take up the full viewport height */
+  margin: 0; /* Removes default browser margin */
+  padding: 0; /* Removes default browser padding */
+  box-sizing: border-box; /* Makes sure padding and border are included in the element's total width and height */
+}
+
+img {
+  max-width: 100%; /* Ensures images scale down if their container is smaller */
+  height: auto; /* Maintains aspect ratio when scaling */
+}
+
