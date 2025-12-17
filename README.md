@@ -17,10 +17,3 @@
 1. Import `schema.sql` to your MySQL
 2. Update `db.php` with your DB credentials
 3. Host on PHP server / XAMPP
-
-## 📡 Live demo
-[Add link when hosted]
-
-## 👥 Team
-- Malareyy – Frontend & DB
-- [Your teammates]
